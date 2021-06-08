@@ -1,0 +1,2 @@
+# imooc-news-config
+testSpringCloud
